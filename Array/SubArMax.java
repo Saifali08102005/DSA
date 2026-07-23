@@ -5,7 +5,7 @@ public class SubArMax {
     public static void main(String[] args) {
         int sum=0;
         int max=Integer.MIN_VALUE;
-        int arr[]={2,4,6,8,10};
+        int arr[]={1, -2, 6, -1, 3};
          for (int i = 0; i < arr.length; i++) {
             for (int j = i; j < arr.length; j++) {
                 sum=0;
