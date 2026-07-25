@@ -1,4 +1,5 @@
-public class pra1 {
+package phase1;
+public class level_1{
     public static void main(String[] args) {
         checkChar('|');
         checkChar('9');

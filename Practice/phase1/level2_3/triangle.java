@@ -1,3 +1,4 @@
+package phase1.level2_3;
 public class triangle{
     public static void main(String[] args) {
         checkTriangle(5, 6, 8);

@@ -1,3 +1,4 @@
+package phase1.level2_3;
 // Take a day number (1–7) and print the corresponding day name.
 public class DayName {
     public static void main(String[] args) {
