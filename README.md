@@ -43,7 +43,7 @@ This repository contains my **Java DSA** practice and solutions. I'm learning DS
 Looking for more solved DSA questions?
 
 👉 **Must Visit My DSA Practice Repository:**  
-**[https://github.com/YOUR_USERNAME/YOUR_PRACTICE_REPOSITORY](https://github.com/Saifali08102005/DSA/tree/main/Practice)**
+**(https://github.com/Saifali08102005/DSA/tree/main/Practice)**
 
 ---
 
