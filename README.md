@@ -1,11 +1,11 @@
-# <h1 align="center">🚀 Data Structures & Algorithms</h1>
+# <h1 align="center">🚀 Data Structures & Algorithms in Java</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+DSA+Repository!;Learning+DSA+One+Step+at+a+Time+🚀;Consistency+%3E+Perfection+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+DSA+Repository!;Learning+Java+DSA+One+Step+at+a+Time+☕;Consistency+Builds+Success+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/DSA-Learning-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge">
 </p>
@@ -16,14 +16,11 @@
 
 Welcome to my **Data Structures & Algorithms Repository**.
 
-This repository documents my DSA learning journey and contains solutions to problems that I solve while practicing. My goal is to build strong problem-solving skills and prepare for coding interviews through consistent practice.
-
-> 🚀 **Currently completed:** Arrays, Strings, and Binary Search.
-> 📚 **Next up:** Linked List, Stack, Queue, Trees, Graphs, Dynamic Programming, and many more.
+This repository contains my **Java DSA** practice and solutions. I'm learning Data Structures and Algorithms step by step while improving my problem-solving skills and preparing for technical interviews.
 
 ---
 
-## 📚 Progress
+## 📚 Current Progress
 
 * ✅ Arrays
 * ✅ Strings
@@ -32,30 +29,17 @@ This repository documents my DSA learning journey and contains solutions to prob
 * ⏳ Stack
 * ⏳ Queue
 * ⏳ Trees
-* ⏳ Binary Search Tree
 * ⏳ Graphs
-* ⏳ Recursion
-* ⏳ Backtracking
 * ⏳ Dynamic Programming
 * ⏳ Greedy Algorithms
 
----
-
-## 🌱 Learning Journey
-
-* ✔ Arrays Completed
-* ✔ Strings Completed
-* ✔ Binary Search Completed
-* 🚀 Currently exploring advanced DSA topics.
-* 📈 This repository will be updated regularly as I continue learning and solving new problems.
+> 🚀 **Currently, I have completed Arrays, Strings, and Binary Search. More topics and solutions will be added as I continue my DSA journey.**
 
 ---
 
 ## ⭐ Practice Repository
 
-> **Looking for more DSA practice?**
-
-I maintain a separate repository dedicated to daily practice problems and additional solutions.
+📌 **Looking for more solved DSA problems?**
 
 👉 **Must Visit:** **[DSA Practice Repository](YOUR_PRACTICE_REPOSITORY_LINK)**
 
@@ -63,18 +47,17 @@ I maintain a separate repository dedicated to daily practice problems and additi
 
 ## 🎯 Goals
 
-* 📌 Strengthen DSA fundamentals
-* 💻 Improve coding and problem-solving skills
-* 🚀 Stay consistent with daily practice
-* 🎯 Prepare for technical interviews
+* 📚 Master Data Structures & Algorithms
+* 💻 Improve Problem Solving
+* 🚀 Stay Consistent
+* 🎯 Crack Coding Interviews
 
 ---
 
 <div align="center">
 
-### ⭐ If you find this repository helpful, consider giving it a Star!
+### ⭐ If you find this repository helpful, don't forget to Star it!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=More+DSA+Topics+Coming+Soon...;Keep+Learning!+Keep+Coding!+🚀;Thanks+for+Visiting!+⭐" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=More+Topics+Coming+Soon...;Happy+Coding!+☕;Keep+Learning+🚀" />
 
 </div>
-
